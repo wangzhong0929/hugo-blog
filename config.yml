@@ -1,0 +1,15 @@
+baseURL: 'http://waiwaka.com'
+languageCode: 'zh-cn'
+theme: 'PaperMod'
+enableEmoji: true
+
+params:
+  homeInfoParams:
+    Title: We10om3 t0 Fa1c0ni4! 
+    Content: ...
+
+  socialIcons: 
+    - name: github
+      url: "https://github.com/wangzhong0929"
+    - name: X
+      url: "https://x.com/Fa1con14"
