@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://waiwaka.com/categories/</loc>
+    <lastmod>2025-06-18T10:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://waiwaka.com/tags/hugo/</loc>
+    <lastmod>2025-06-18T10:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://waiwaka.com/posts/</loc>
+    <lastmod>2025-06-18T10:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://waiwaka.com/tags/</loc>
+    <lastmod>2025-06-18T10:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://waiwaka.com/tags/%E5%8D%9A%E5%AE%A2/</loc>
+    <lastmod>2025-06-18T10:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://waiwaka.com/tags/%E5%BC%80%E5%A7%8B/</loc>
+    <lastmod>2025-06-18T10:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://waiwaka.com/</loc>
+    <lastmod>2025-06-18T10:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://waiwaka.com/posts/my-first-post/</loc>
+    <lastmod>2025-06-18T10:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://waiwaka.com/categories/%E6%8A%80%E6%9C%AF/</loc>
+    <lastmod>2025-06-18T10:00:00+08:00</lastmod>
+  </url>
+</urlset>

@@ -1,0 +1,11 @@
+baseURL = 'http://waiwaka.com'
+languageCode = 'zh-cn'
+title = '我的博客'
+theme = 'PaperMod'
+
+[params]
+  description = "一个技术博客"
+  author = "你的名字"
+
+# 启用emoji
+enableEmoji = true
